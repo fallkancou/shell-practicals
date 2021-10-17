@@ -1,0 +1,164 @@
+    1  sudo apt update
+    2  sudo apt install texmaker
+    3  sudo apt jupyter-notebook
+    4  sudo apt install jupyter-notebook
+    5  sudo apt install sagemath
+    6  cd Téléchargements/
+    7  ls
+    8  sudo apt install ./zoom_amd64.deb 
+    9  sage
+   10  pwd
+   11  ls
+   12  whoami
+   13  cd
+   14  ls
+   15  tree
+   16  cd T
+   17  cd Telechargements
+   18  Tree
+   19  Téléchargements/
+   20  tree
+   21  Téléchargements/
+   22  ls
+   23  Téléchargements/ls
+   24  touc
+   25  install tree
+   26  install help
+   27  install'tree'
+   28  install 'tree'
+   29  install 'help'
+   30  install--help
+   31  cp scenery.jpg/home/username/Pictures
+   32  cp help
+   33  pwd
+   34  cp scenery.jpg
+   35  install scenery
+   36  install scenery.jpg
+   37  cp --help
+   38  mv file.txt/home/aimssn/Documents
+   39  echo"Hello,World"
+   40  echo "Hello, World"
+   41  git clone https
+   42  git clone https://github.com/gabayae/friendly-shell-lesson.git shell-lesson
+   43  sudo apt install git
+   44  git clone https://github.com/gabayae/friendly-shell-lesson.git shell-lesson
+   45  cd shell-lesson
+   46  2$
+   47  $2$
+   48  2
+   49  pwd
+   50  ls
+   51  ls/home/username/Documents
+   52  pwd
+   53  ls -F
+   54  ls -R
+   55  ls -a
+   56  ls -al
+   57  whoami
+   58  cd
+   59  ls/home/username/Documents
+   60  pwd
+   61  ls/home/aimssn/Documents
+   62  ls
+   63  ls/home/aimssn/Documents
+   64  Documents/
+   65  cd Photos
+   66  Documents/
+   67  cd Vidéos/
+   68  cd
+   69  Téléchargements/
+   70  cd Téléchargements/
+   71  cd
+   72  pwd
+   73  cd path_to/ .../shell-lesson
+   74  cd path_to/.../shell-lesson
+   75  cd path_to/..../shell-lesson
+   76  cd shell-lesson
+   77  cd
+   78  mkdir MyMusic
+   79  rmdir MyMusic
+   80  ls MyMusic
+   81  touch testfile
+   82  ls testfile
+   83  ls touch testfile
+   84  ls testfile
+   85  rmtestfile
+   86  rm testfile
+   87  ls testfile
+   88  man
+   89  man cd
+   90  man ls
+   91  cd --help
+   92  cat file.txt
+   93  cat Téléchargement.txt
+   94  cat> filename
+   95  jupyper notebook
+   96  jupyter notebook
+   97  ls
+   98  ls -l
+   99  ls -L
+  100  ls -d
+  101  help
+  102  help help
+  103  mkdir fichier1 fichier2 fichier3
+  104  cp fichier2 fichier3 to fichier1
+  105  cp -r fichier2 fichier3 fichier1
+  106  cd fichier1
+  107  ls
+  108  cp -i
+  109  cp -i fichier1
+  110  ls /home/
+  111  ls /etc
+  112  nano /hosts
+  113  nano /etc/hostname
+  114  cd /bin/
+  115  ls /bin
+  116  nano /etc/hostname
+  117  move fichier1 fichier4
+  118  mouve fichier1 fichier4
+  119  mauve fichier1 fichier4
+  120  sudo apt install mauve
+  121  mv fichier1 fichier4
+  122  cd fichier1
+  123  cp -r fichier2 fichier3 fichier1
+  124  cd fichier1
+  125  ls
+  126  mv fichier1 fichier4
+  127  cd fichier1
+  128  jupyter notebook
+  129  python3
+  130  D
+  131  cd
+  132  jupyter notebook
+  133  notebook
+  134  jupyter notebook
+  135  jupyter notebook
+  136  ls
+  137  mkdir unix
+  138  cd unix
+  139  touch foo.txt
+  140  ls
+  141  cp foo.txt foo-copy.txt
+  142  ls
+  143  mv foo-copy.txt foo2.txt
+  144  ls
+  145  mkdir data
+  146  mv foo2.txt data
+  147  ls
+  148  mkdir new
+  149  ls
+  150  mv data/foo2.txt new
+  151  ls
+  152  mv new/foo2.txt unix
+  153  ls
+  154  ls unix
+  155  mv unix foo-old.txt
+  156  ls unix
+  157  ls foo-olc
+  158  ls foo-old
+  159  ls
+  160  rm foo-old.txt
+  161  ls
+  162  rmdir new
+  163  ls
+  164  history>> exo1.txt
